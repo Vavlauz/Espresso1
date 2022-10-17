@@ -1,0 +1,53 @@
+{
+    "name": "textHomeCheck",
+    "start": 1666027665843,
+    "stop": 1666027669021,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "b17c6537-b56b-420e-b09d-2f2aea5633de",
+    "historyId": "53c3ed8cc6fbb19703271d175ca831c5",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.TextTest.textHomeCheck",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.TextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "textHomeCheck"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.TextTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(831)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
